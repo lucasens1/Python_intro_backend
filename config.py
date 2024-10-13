@@ -1,0 +1,1 @@
+# Contiene le impostazioni specifice dell'app (chiavi segrete, impostazioni di debug e credenziali database simil config.php)
